@@ -1,3 +1,15 @@
+/******************************
+ *
+ * hello.c
+ *
+ * This script prints "Hello, world! in the terminal window.
+ *
+ * Created by: alyssabenipayo
+ *
+ * CS50 IDE // CS50x
+ *
+ ******************************/
+
 // Including the header file.
 #include <stdio.h>
 // Including the header file, in which get_string is declared.
